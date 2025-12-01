@@ -13,7 +13,7 @@ execution of the code and you do not need to interact with a terminal. **The res
 bottom of the code tab.**
 
 If you have trouble viewing these Jupyter notebooks, please visit 
-** [https://github.com/haydenkirkeide/CAP-5771-Assignment-2-Files/tree/main](url) **
+[https://github.com/haydenkirkeide/CAP-5771-Assignment-2-Files/tree/main](url)
 to use the environment and information there.
 
 # SPECIFIC INSTRUCTIONS FOR EACH PROBLEM
