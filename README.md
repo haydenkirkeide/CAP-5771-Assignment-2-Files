@@ -4,15 +4,20 @@
 I used Google CoLab as my IDE for writing this code. For ease of use, **please use CoLab or
 a similar Jupyter notebook environment that allows you to run cells and upload files.**
 
+To run the assignments in Google CoLab, click the play button in the upper left-hand corner **after** uploading 
+the data into the Files tab on the left hand side. You may have to sign into CoLab with a personal gmail
+account because for some reason it did not work with my FSU email. The CoLab cell takes care of the 
+execution of the code and you do not need to interact with a terminal. **The result will display at the
+bottom of the code tab.**
+
 # SPECIFIC INSTRUCTIONS FOR EACH PROBLEM
 
 **Problem 1:** please upload "X_train.txt", "X_test.txt", "Y_train.txt", and "Y_test.txt"
-from the assignment data folder into the CoLab Files tab to run the code.
+from the assignment data folder into the CoLab Files tab to successfully run the code.
 
-**Problem 2:** please rename the "seeds.txt" file to "ASSMT2 P2.txt" and
-upload the file into the CoLab Files tab so that, if you are running the code in CoLab, 
-there are no issues when it comes to running the file.
+**Problem 2:** please upload the "seeds.txt" dataset from the assignment data folder into 
+the CoLab Files tab to successfully run the code.
 
-**Problem 3:** please rename the "German_Credit_Data.txt" file to "ASSMT2 P3.txt" and
-upload the file into the CoLab Files tab so that, if you are running the code in CoLab, 
-there are no issues when it comes to running the file.
+**Problem 3:** please upload the "German_Credit_Data.txt" (or a similar title, I changed the
+name an forgot the original name) file from the assignment data folder into the CoLab Files 
+tab to successfully run the code.
